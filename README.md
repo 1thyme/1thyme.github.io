@@ -2,5 +2,5 @@
 
 Front-end development of a Travel website
 
-##Used:
+Used:
 HTML, CSS, JavaScript
